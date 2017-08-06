@@ -3093,6 +3093,1317 @@
           39.2822319
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872592",
+      "properties": {
+        "type": "node",
+        "id": "5000872592",
+        "tags": {
+          "circumference": "25.13 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "White Ash"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7199455,
+          39.2656182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872593",
+      "properties": {
+        "type": "node",
+        "id": "5000872593",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7200382,
+          39.2656472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872594",
+      "properties": {
+        "type": "node",
+        "id": "5000872594",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7201037,
+          39.2657977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872595",
+      "properties": {
+        "type": "node",
+        "id": "5000872595",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7202612,
+          39.2657029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872596",
+      "properties": {
+        "type": "node",
+        "id": "5000872596",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7204121,
+          39.2656594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872597",
+      "properties": {
+        "type": "node",
+        "id": "5000872597",
+        "tags": {
+          "circumference": "75.4 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Catalpa"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7205139,
+          39.2656028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872598",
+      "properties": {
+        "type": "node",
+        "id": "5000872598",
+        "tags": {
+          "circumference": "75.4 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "White Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7205511,
+          39.2657261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872599",
+      "properties": {
+        "type": "node",
+        "id": "5000872599",
+        "tags": {
+          "circumference": "78.54 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "White Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7207389,
+          39.2656311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872600",
+      "properties": {
+        "type": "node",
+        "id": "5000872600",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7207744,
+          39.2655467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872601",
+      "properties": {
+        "type": "node",
+        "id": "5000872601",
+        "tags": {
+          "circumference": "87.96 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "White Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7209166,
+          39.2654418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872602",
+      "properties": {
+        "type": "node",
+        "id": "5000872602",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7210071,
+          39.2653401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872603",
+      "properties": {
+        "type": "node",
+        "id": "5000872603",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7211105,
+          39.2652499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872604",
+      "properties": {
+        "type": "node",
+        "id": "5000872604",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7212288,
+          39.2651505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872605",
+      "properties": {
+        "type": "node",
+        "id": "5000872605",
+        "tags": {
+          "circumference": "18.85 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.721704,
+          39.265213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872606",
+      "properties": {
+        "type": "node",
+        "id": "5000872606",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7220522,
+          39.2657598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872607",
+      "properties": {
+        "type": "node",
+        "id": "5000872607",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7221239,
+          39.2658772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872608",
+      "properties": {
+        "type": "node",
+        "id": "5000872608",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.722197,
+          39.2659986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872609",
+      "properties": {
+        "type": "node",
+        "id": "5000872609",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7223099,
+          39.2661885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872610",
+      "properties": {
+        "type": "node",
+        "id": "5000872610",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7224225,
+          39.2663668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872611",
+      "properties": {
+        "type": "node",
+        "id": "5000872611",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.722537,
+          39.2665539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872612",
+      "properties": {
+        "type": "node",
+        "id": "5000872612",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7226513,
+          39.2667379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872613",
+      "properties": {
+        "type": "node",
+        "id": "5000872613",
+        "tags": {
+          "circumference": "15.71 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Redbud"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7217343,
+          39.2642169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872614",
+      "properties": {
+        "type": "node",
+        "id": "5000872614",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7226785,
+          39.2667838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872615",
+      "properties": {
+        "type": "node",
+        "id": "5000872615",
+        "tags": {
+          "circumference": "15.71 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Redbud"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7216814,
+          39.2641424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872616",
+      "properties": {
+        "type": "node",
+        "id": "5000872616",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7227403,
+          39.2668833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872617",
+      "properties": {
+        "type": "node",
+        "id": "5000872617",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7218443,
+          39.2641447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872618",
+      "properties": {
+        "type": "node",
+        "id": "5000872618",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7227734,
+          39.2669416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872619",
+      "properties": {
+        "type": "node",
+        "id": "5000872619",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7219174,
+          39.2642343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872620",
+      "properties": {
+        "type": "node",
+        "id": "5000872620",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7227884,
+          39.2669728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874421",
+      "properties": {
+        "type": "node",
+        "id": "5000874421",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7219902,
+          39.2643337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874422",
+      "properties": {
+        "type": "node",
+        "id": "5000874422",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7228347,
+          39.2670419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874423",
+      "properties": {
+        "type": "node",
+        "id": "5000874423",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7220505,
+          39.2644347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874424",
+      "properties": {
+        "type": "node",
+        "id": "5000874424",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7228652,
+          39.2670854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874425",
+      "properties": {
+        "type": "node",
+        "id": "5000874425",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7218943,
+          39.2644733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874426",
+      "properties": {
+        "type": "node",
+        "id": "5000874426",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7228904,
+          39.2671379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874427",
+      "properties": {
+        "type": "node",
+        "id": "5000874427",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7216784,
+          39.2645452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874428",
+      "properties": {
+        "type": "node",
+        "id": "5000874428",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7229533,
+          39.2672328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874429",
+      "properties": {
+        "type": "node",
+        "id": "5000874429",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7215573,
+          39.2646068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874430",
+      "properties": {
+        "type": "node",
+        "id": "5000874430",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7229825,
+          39.2672862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874431",
+      "properties": {
+        "type": "node",
+        "id": "5000874431",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7214426,
+          39.2646699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874432",
+      "properties": {
+        "type": "node",
+        "id": "5000874432",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7230091,
+          39.2673277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874433",
+      "properties": {
+        "type": "node",
+        "id": "5000874433",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7213186,
+          39.2647433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874434",
+      "properties": {
+        "type": "node",
+        "id": "5000874434",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7230581,
+          39.2674101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874435",
+      "properties": {
+        "type": "node",
+        "id": "5000874435",
+        "tags": {
+          "circumference": "144.51 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Red Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7213149,
+          39.2650413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874436",
+      "properties": {
+        "type": "node",
+        "id": "5000874436",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7230915,
+          39.26746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874437",
+      "properties": {
+        "type": "node",
+        "id": "5000874437",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7211406,
+          39.2650063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874438",
+      "properties": {
+        "type": "node",
+        "id": "5000874438",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7231199,
+          39.2675121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874439",
+      "properties": {
+        "type": "node",
+        "id": "5000874439",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7211054,
+          39.2650387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874440",
+      "properties": {
+        "type": "node",
+        "id": "5000874440",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.72317,
+          39.267595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874441",
+      "properties": {
+        "type": "node",
+        "id": "5000874441",
+        "tags": {
+          "circumference": "81.68 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "White Ash"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7210876,
+          39.2650891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874442",
+      "properties": {
+        "type": "node",
+        "id": "5000874442",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7231982,
+          39.2676332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874443",
+      "properties": {
+        "type": "node",
+        "id": "5000874443",
+        "tags": {
+          "circumference": "150.8 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Black Walnut"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7209669,
+          39.2651869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874444",
+      "properties": {
+        "type": "node",
+        "id": "5000874444",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7208049,
+          39.2652884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874445",
+      "properties": {
+        "type": "node",
+        "id": "5000874445",
+        "tags": {
+          "circumference": "18.85 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Mimosa (Silk Tree)"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.720707,
+          39.2653598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874446",
+      "properties": {
+        "type": "node",
+        "id": "5000874446",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7204321,
+          39.2655265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874447",
+      "properties": {
+        "type": "node",
+        "id": "5000874447",
+        "tags": {
+          "circumference": "87.96 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Black Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7201709,
+          39.2656183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874448",
+      "properties": {
+        "type": "node",
+        "id": "5000874448",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7202311,
+          39.2656467
+        ]
+      }
     }
   ]
 }
