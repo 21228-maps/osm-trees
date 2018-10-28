@@ -5695,8 +5695,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.736287,
-          39.2530589
+          -76.7363,
+          39.2530468
         ]
       }
     },
@@ -6306,6 +6306,27 @@
         "coordinates": [
           -76.7368445,
           39.2522232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6005513396",
+      "properties": {
+        "type": "node",
+        "id": "6005513396",
+        "tags": {
+          "leaf_type": "broadleaved",
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7348087,
+          39.2540986
         ]
       }
     }
